@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap@4.6.1",
+      "destination": "wwwroot/lib/bootstrap/"
+    },
+    {
+      "library": "font-awesome@5.15.4",
+      "destination": "wwwroot/lib/font-awesome/"
+    },
+    {
+      "library": "animate.css@3.7.2",
+      "destination": "wwwroot/lib/animate.css/"
+    },
+    {
+      "library": "datatables@1.10.21",
+      "destination": "wwwroot/lib/datatables/"
+    },
+    {
+      "library": "aos@2.3.4",
+      "destination": "wwwroot/lib/aos/"
+    },
+    {
+      "library": "ckeditor@4.17.1",
+      "destination": "wwwroot/lib/ckeditor/"
+    },
+    {
+      "library": "ckeditor@4.17.1",
+      "destination": "wwwroot/lib/ckeditor/"
+    },
+    {
+      "library": "OwlCarousel2@2.3.4",
+      "destination": "wwwroot/lib/OwlCarousel2/"
+    },
+    {
+      "library": "bootstrap-icons@1.7.2",
+      "destination": "wwwroot/lib/bootstrap-icons/"
+    },
+    {
+      "library": "slick-carousel@1.8.1",
+      "destination": "wwwroot/lib/slick-carousel/"
+    },
+    {
+      "library": "magnific-popup.js@1.1.0",
+      "destination": "wwwroot/lib/magnific-popup.js/"
+    },
+    {
+      "library": "bootswatch@4.6.1",
+      "destination": "wwwroot/lib/bootswatch/"
+    }
+  ]
+}
